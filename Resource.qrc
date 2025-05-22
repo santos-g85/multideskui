@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logohere.png</file>
+        <file>copyicon.svg</file>
+    </qresource>
+</RCC>

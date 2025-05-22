@@ -23,6 +23,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(FlexibleUi
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        Resource.qrc
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET FlexibleUi APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
