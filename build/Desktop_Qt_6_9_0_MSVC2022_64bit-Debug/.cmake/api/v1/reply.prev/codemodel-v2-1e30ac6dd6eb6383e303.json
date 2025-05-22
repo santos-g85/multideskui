@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d9563f1254982c2e7ea3.json",
+					"jsonFile" : "directory-.-Debug-d3fc125a8c90d1df592b.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "FlexibleUi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-FlexibleUi-Debug-d9b0a016f01dab1362f0.json",
+					"jsonFile" : "target-FlexibleUi-Debug-d6f76f9730dad77cb13c.json",
 					"name" : "FlexibleUi",
 					"projectIndex" : 0
 				},
