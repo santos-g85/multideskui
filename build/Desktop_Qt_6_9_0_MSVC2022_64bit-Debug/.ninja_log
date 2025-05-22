@@ -1,0 +1,27 @@
+# ninja log v6
+35	669	7695310946593044	FlexibleUi_autogen/timestamp	842157a45a88df56
+35	669	7695310946593044	FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+35	669	7695310946593044	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/timestamp	842157a45a88df56
+35	669	7695310946593044	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+680	4344	7695310947789566	CMakeFiles/FlexibleUi.dir/FlexibleUi_autogen/mocs_compilation.cpp.obj	3721646f09a2915c
+691	4358	7695310947899267	CMakeFiles/FlexibleUi.dir/main.cpp.obj	82fb97905fb0f2b1
+701	4374	7695310947998998	CMakeFiles/FlexibleUi.dir/mainwindow.cpp.obj	a258dac9eb651e36
+4375	4845	7695310984738761	FlexibleUi.exe	4ca67a022a0b032b
+85	359	7695314417020330	FlexibleUi_autogen/timestamp	842157a45a88df56
+85	359	7695314417020330	FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+85	359	7695314417020330	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/timestamp	842157a45a88df56
+85	359	7695314417020330	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+361	4267	7695314419782690	CMakeFiles/FlexibleUi.dir/mainwindow.cpp.obj	a258dac9eb651e36
+4267	4592	7695314458832611	FlexibleUi.exe	4ca67a022a0b032b
+132	903	7695914636325513	FlexibleUi_autogen/timestamp	842157a45a88df56
+132	903	7695914636325513	FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+132	903	7695914636325513	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/timestamp	842157a45a88df56
+132	903	7695914636325513	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+906	5013	7695914644059078	CMakeFiles/FlexibleUi.dir/mainwindow.cpp.obj	a258dac9eb651e36
+5013	5402	7695914685132235	FlexibleUi.exe	4ca67a022a0b032b
+66	328	7695917903956751	FlexibleUi_autogen/timestamp	842157a45a88df56
+66	328	7695917903956751	FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+66	328	7695917903956751	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/timestamp	842157a45a88df56
+66	328	7695917903956751	C:/Users/swaru/OneDrive/Documents/FlexibleUi/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/FlexibleUi_autogen/mocs_compilation.cpp	842157a45a88df56
+330	4268	7695917906590326	CMakeFiles/FlexibleUi.dir/mainwindow.cpp.obj	a258dac9eb651e36
+4268	4635	7695917945978188	FlexibleUi.exe	4ca67a022a0b032b
